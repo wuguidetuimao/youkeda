@@ -1,6 +1,7 @@
 # youkeda
 绑定远程仓库 git remote add origin
 查看仓库地址 git remote -v
+解绑代码 git remote remove origin
 下面为Terminal代码
 root@61a0a15ffec8:/usr/src/app# git remote add origin https://github.com/wuguidetuimao/youkeda.git
 fatal: remote origin already exists.
